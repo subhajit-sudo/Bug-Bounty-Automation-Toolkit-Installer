@@ -219,7 +219,7 @@ The Bug Bounty Automation Toolkit is an all-in-one solution that automates the i
 
 ```bash
 # Clone the repository
-git clone https://github.com/subhojit64/Bug-Bounty-Automation-Toolkit-Installer.git
+git clone https://github.com/subhajit-sudo/Bug-Bounty-Automation-Toolkit-Installer.git
 
 # Navigate to the directory
 cd Bug-Bounty-Automation-Toolkit-Installer-main
@@ -504,8 +504,8 @@ Special thanks to all the tool developers and the bug bounty community:
 
 ## 📞 Support & Community
 
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/yourusername/bugbounty-automation-toolkit/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/bugbounty-automation-toolkit/discussions)
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/subhajit-sudo/bugbounty-automation-toolkit/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/subhajit-sudo/bugbounty-automation-toolkit/discussions)
 - 📧 **Contact**: subhojitnandi64@gmail.com
 
 ---
